@@ -1,3 +1,5 @@
+ToDoList är en enkel konsolbaserad att-göra-applikation i C#. Programmet hanterar tasks med titel, datum, projekt och status, och använder objektorienterade principer som arv och polymorfism. Användaren kan visa, lägga till, redigera, markera som klar och spara tasks till fil.
+
 Imports
 
 System → grundläggande funktioner.
