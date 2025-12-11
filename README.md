@@ -46,6 +46,7 @@ SaveTasks
 Skriver alla tasks till tasks.txt.
 
 UML Klassdiagram – Textversion
+
            ┌──────────────────────────┐
            │        TaskBase          │ <<abstract>>
            ├──────────────────────────┤
