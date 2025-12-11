@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Lexicon\\ToDo\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CDCE65C-A1AA-427D-9D84-0DFC7FECAA76}|ToDoList\\ToDoList.csproj|c:\\lexicon\\todo\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDCE65C-A1AA-427D-9D84-0DFC7FECAA76}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CD40A2D-545E-C111-D437-1BE9E9C2C98C}|ToDoList\\ToDoList.csproj|c:\\lexicon\\todo\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD40A2D-545E-C111-D437-1BE9E9C2C98C}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "ToDoList\\Program.cs",
               "ToolTip": "C:\\Lexicon\\ToDo\\ToDoList\\ToDoList\\Program.cs",
               "RelativeToolTip": "ToDoList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAqwOQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T11:35:32.918Z",
               "EditorCaption": ""
