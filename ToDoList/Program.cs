@@ -45,8 +45,8 @@ class Program
     {
         LoadTasks(); // Försök ladda tasks från fil vid start
 
-        // Om inga tasks finns, fyll på med 5 exempelrader
-        if (taskList.Count == 0)
+        
+        if (taskList.Count == 0)  // Om inga tasks finns, fyll på med 5 exempelrader
         {
             taskList.Add(new Task("Buy groceries", DateTime.Now.AddDays(1), "Home"));    // Lägg till matinköp
             taskList.Add(new Task("Finish report", DateTime.Now.AddDays(2), "Work"));     // Lägg till rapportarbete
