@@ -1,0 +1,14 @@
+C:\Lexicon\ToDo\ToDoList\ToDoList\bin\Debug\net10.0\ToDoList.exe
+C:\Lexicon\ToDo\ToDoList\ToDoList\bin\Debug\net10.0\ToDoList.deps.json
+C:\Lexicon\ToDo\ToDoList\ToDoList\bin\Debug\net10.0\ToDoList.runtimeconfig.json
+C:\Lexicon\ToDo\ToDoList\ToDoList\bin\Debug\net10.0\ToDoList.dll
+C:\Lexicon\ToDo\ToDoList\ToDoList\bin\Debug\net10.0\ToDoList.pdb
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfoInputs.cache
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\ToDoList.AssemblyInfo.cs
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\ToDoList.dll
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\refint\ToDoList.dll
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\ToDoList.pdb
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\ToDoList.genruntimeconfig.cache
+C:\Lexicon\ToDo\ToDoList\ToDoList\obj\Debug\net10.0\ref\ToDoList.dll

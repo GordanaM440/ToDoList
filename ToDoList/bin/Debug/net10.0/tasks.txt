@@ -1,0 +1,5 @@
+Buy groceries|2025-12-12 12:36:08|Home|False
+Finish report|2025-12-13 12:36:08|Work|False
+Call John|2025-12-12 12:36:08|Personal|False
+Plan trip|2025-12-16 12:36:08|Leisure|False
+Clean room|2025-12-14 12:36:08|Home|False
